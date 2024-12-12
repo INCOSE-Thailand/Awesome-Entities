@@ -1,5 +1,5 @@
 # Awesome Entities
-A curated collection of valuable resources for Systems Engineers in Thailand
+A curated lsit of valuable entities in SE communities
 
 ## Contributing
 Your contributions are always welcome.  Refer to the [contribution guidelines](https://github.com/INCOSE-Thailand/Awesome-Entities/blob/main/Contributing.md) if you'd like to make a Pull Request.
