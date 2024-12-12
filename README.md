@@ -6,7 +6,7 @@ Your contributions are always welcome.  Refer to the [contribution guidelines](h
 
 This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License - [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
 
-# Unorganized content during the intial work
+# Unorganized content during the initial work
 
 ## INCOSE AI4SE & SE4AI Workshop
 The fifth edition of the SERC’s AI4SE & SE4AI Research and Application Workshop took place in September with more than 200 in-person participants. Keynote speakers, panel discussions and technical presentations blended insights from academia, government and industry.
