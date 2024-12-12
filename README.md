@@ -6,11 +6,6 @@ Your contributions are always welcome.  Refer to the [contribution guidelines](h
 
 This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License - [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
 
-How to contribute
-
-Please contact chapter@incose-thailand.org
-Request your contribution accoubnes  you pull reqeust 
-
 # Unorganized content during the intial work
 
 ## INCOSE AI4SE & SE4AI Workshop
